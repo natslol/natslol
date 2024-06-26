@@ -6,7 +6,6 @@ struct Nats {
     like: Vec<String>,
     learning: Vec<String>,
     tools: Vec<String>,
-    funFact: Vec<String>
 }
 
 impl WhoAmI for Nats {
@@ -15,8 +14,7 @@ impl WhoAmI for Nats {
             aboutMe: vec!["boy".to_string(), "17yo".into(), "184cm".into()],
             like: vec!["My mom".to_string(), "Development".into(), "Reverse Engineering".into(), "Gym".into(), "Music".into()],
             learning: vec!["Rust".to_string(), "JavaScript".into(), "Python".into(), "Reverse Engineering".into()],
-            tools: vec!["Intellij Rust".to_string(), "Visual Studio Code".into(), "Node.JS".into()],
-            funFact: vec!["Infinity is not a number, Infinity is a concept".to_string()],
+            tools: vec!["Intellij Rust".to_string(), "Visual Studio Code".into(), "Node.JS".into()]
         }
     }
 }
