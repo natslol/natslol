@@ -11,7 +11,7 @@ struct Nats {
 impl WhoAmI for Nats {
     fn default() -> Self {
         Nats {
-            aboutMe: vec!["boy".to_string(), "17yo".into(), "184cm".into()],
+            aboutMe: vec!["boy".to_string(), "18yo".into(), "184cm".into()],
             like: vec!["My mom".to_string(), "Development".into(), "Reverse Engineering".into(), "Gym".into(), "Music".into()],
             learning: vec!["Rust".to_string(), "JavaScript".into(), "Python".into(), "Reverse Engineering".into()],
             tools: vec!["Intellij Rust".to_string(), "Visual Studio Code".into(), "Node.JS".into()]
