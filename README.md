@@ -26,8 +26,4 @@ impl WhoAmI for Nats {
  <img src="https://komarev.com/ghpvc/?username=Natslpb&color=red"/>
 </p>
 
-<p>
- <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31qoocawwwg3scv7364y2ad344uu&cover_image=true&theme=novatorem&bar_color=5171ee&bar_color_cover=false"/>
-</p>
-
 https://paypal.me/ggsk1d *You can make a donation, i will buy a coffee* ☕
