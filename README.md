@@ -5,6 +5,7 @@ struct Nats {
     aboutMe: Vec<String>,
     like: Vec<String>,
     learning: Vec<String>,
+    languages: Vec<String>,
     tools: Vec<String>,
 }
 
@@ -13,8 +14,9 @@ impl WhoAmI for Nats {
         Nats {
             aboutMe: vec!["boy".to_string(), "18yo".into(), "184cm".into()],
             like: vec!["My mom".to_string(), "Development".into(), "Reverse Engineering".into(), "Gym".into(), "Music".into()],
-            learning: vec!["Rust".to_string(), "JavaScript".into(), "Python".into(), "Reverse Engineering".into()],
-            tools: vec!["Intellij Rust".to_string(), "Visual Studio Code".into(), "Node.JS".into()]
+            learning: vec!["Rust".to_string(), "Reverse Engineering".into()],
+            languages: vec!["HTML/CSS".to_string(), "JavaScript".into(), "Python".into(), "PHP".into()],
+            tools: vec!["RustRover".to_string(), "Visual Studio Code".into(), "Node.JS".into(), "PySide6 (QT)".into()]
         }
     }
 }
@@ -23,7 +25,7 @@ impl WhoAmI for Nats {
 ## 💮 Other
 
 <p>
- <img src="https://komarev.com/ghpvc/?username=Natslpb&color=red"/>
+ <img src="https://komarev.com/ghpvc/?username=natslol&color=red"/>
 </p>
 
 https://paypal.me/ggsk1d *You can make a donation, i will buy a coffee* ☕
