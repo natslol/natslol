@@ -12,7 +12,7 @@ struct Nats {
 impl WhoAmI for Nats {
     fn default() -> Self {
         Nats {
-            aboutMe: vec!["boy".to_string(), "18yo".into(), "184cm".into()],
+            aboutMe: vec!["Boy".to_string(), "18yo".into(), "184cm".into()],
             like: vec!["My mom".to_string(), "Development".into(), "Reverse Engineering".into(), "Gym".into(), "Music".into()],
             learning: vec!["Rust".to_string(), "Reverse Engineering".into()],
             languages: vec!["HTML/CSS".to_string(), "JavaScript".into(), "Python".into(), "PHP".into()],
