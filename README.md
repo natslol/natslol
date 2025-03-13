@@ -1,7 +1,7 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nats
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stan
 
 ```rust
-struct Nats {
+struct Stan {
     aboutMe: Vec<String>,
     like: Vec<String>,
     learning: Vec<String>,
@@ -9,7 +9,7 @@ struct Nats {
     tools: Vec<String>,
 }
 
-impl WhoAmI for Nats {
+impl WhoAmI for Stan {
     fn default() -> Self {
         Nats {
             aboutMe: vec!["Boy".to_string(), "18yo".into(), "184cm".into()],
@@ -25,7 +25,7 @@ impl WhoAmI for Nats {
 ## 💮 Other
 
 <p>
- <img src="https://komarev.com/ghpvc/?username=natslol&color=red"/>
+ <img src="https://komarev.com/ghpvc/?username=sltcvtfk&color=red"/>
 </p>
 
 https://paypal.me/ggsk1d *You can make a donation, i will buy a coffee* ☕
